@@ -2,9 +2,13 @@
 <h3 align="center">Xonotic Colour Code Application</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazza-works&label=Profile%20views&color=0e75b6&style=flat" alt="shazza-works" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shazza-works" alt="shazza-works" /></a> </p>
+
 - 🌱 I’m currently learning **Anything**
+
 - 👨‍💻 All of my projects are available at [https://github.com/shazza-works](https://github.com/shazza-works)
+
 - 📄 Know about my experiences [Bash, Flask, Python, Apache](Bash, Flask, Python, Apache)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/hxWvKTkdGg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hxWvKTkdGg" height="30" width="40" /></a>
